@@ -28,7 +28,7 @@ constructs==10.2.19
 coreapi==2.3.3
 coreschema==0.0.4
 coverage==7.2.5
-cryptography==43.0.1
+cryptography==44.0.1
 cssselect2==0.7.0
 defusedxml==0.7.1
 Deprecated==1.2.13
