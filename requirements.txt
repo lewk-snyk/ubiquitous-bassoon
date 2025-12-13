@@ -104,7 +104,7 @@ soupsieve==2.4.1
 sqlparse==0.5.0
 tinycss2==1.2.1
 tomli==2.0.1
-tornado==6.2
+tornado==6.5.3
 typeguard==2.13.3
 typing_extensions==4.4.0
 tzdata==2022.5
