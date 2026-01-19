@@ -78,7 +78,7 @@ prometheus-client==0.15.0
 prompt-toolkit==3.0.31
 psycopg2-binary==2.9.6
 publication==0.0.3
-pyasn1==0.4.8
+pyasn1==0.6.2
 pycparser==2.21
 pyee==9.0.4
 pyparsing==3.0.9
