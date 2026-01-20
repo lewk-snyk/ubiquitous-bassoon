@@ -101,7 +101,7 @@ s3transfer==0.10.0
 sentry-sdk==1.31.0
 six==1.16.0
 soupsieve==2.4.1
-sqlparse==0.5.0
+sqlparse==0.5.4
 tinycss2==1.2.1
 tomli==2.0.1
 tornado==6.2
@@ -117,5 +117,5 @@ webencodings==0.5.1
 websockets==11.0.3
 wrapt==1.15.0
 yarl==1.9.2
-zipp==3.10.0
+zipp==3.19.1
 PyJWT==2.6.0
